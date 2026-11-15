@@ -17,7 +17,7 @@ import { getDatabase, ref, set, get, update, remove, push, onValue, onChildAdded
 const firebaseConfig = {
   apiKey: "AIzaSyBLYrPyujbKRHGBKa0W8clxmiFlutbDqUc",
   authDomain: "worst-nightmare.firebaseapp.com",
-  databaseURL: "https://firebasedatabase.app",
+  databaseURL: "https://worst-nightmare-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "worst-nightmare",
   storageBucket: "worst-nightmare.firebasestorage.app",
   messagingSenderId: "683709393949",
